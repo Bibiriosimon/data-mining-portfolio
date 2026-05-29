@@ -11,34 +11,6 @@
 
 ---
 
-## 关于我
-
-西南财经大学经济数学双学位本科生，专业排名前 3%（GPA 4.0/5.0），UC Berkeley Haas 商学院交换（商业分析方向，GPA 4.5/5.0）。研究方向聚焦统计建模、时序分析与机器学习在商业场景中的落地应用。
-
-- **GitHub:** [Bibiriosimon](https://github.com/Bibiriosimon)
-- **技能:** Python · scikit-learn · XGBoost · Pandas · NumPy · SQL · R · Stata · SPSS
-- **语言:** 中文（母语）· 英语（IELTS 6.5，CET-6 560，留学经历）
-
-### 研究方向
-
-- **统计建模与时序分析** — 机器学习预测、特征工程、模型对比与评估
-- **AI × 法律 / 商业** — 智能体系统、Graph-RAG、因果推断
-- **最优化与动态建模** — 最优控制、数值仿真、商业策略分析
-
-### 代表项目
-
-- **LAW MASTER** — AI 法律智能系统，Graph-RAG 驱动多智能体架构，已上线服务 500+ 用户（[lawmaster.chat](https://lawmaster.chat/)）
-- **MAP-Law** — Coverage-Driven Retrieval Control for Multi-Turn Legal Consultation（[arXiv:2605.01486](https://arxiv.org/abs/2605.01486)，ICML 2026 AI4LAW Workshop 投稿）
-- **新能源汽车渠道动态优化** — 最优控制模型 + Nerlove-Arrow 商誉模型，NPV 提升 61.75%
-- **B 站"AI 制作"舆论因果研究** — 倾向性评分匹配 + 因果推断，6 周高稳定数据采集
-
-### 竞赛与荣誉
-
-- 全国大学生数学建模竞赛四川省一等奖（编程手）
-- 挑战杯创新创业大赛校一等奖、光华创新创业大赛银奖
-- 华为鲲鹏人工智能创新大赛西北赛区银奖
-- 字节跳动火山杯智能体大赛特等奖
-- 校级科研创新奖学金（Top 5%）· 校级乙等学业奖学金
 
 ---
 
