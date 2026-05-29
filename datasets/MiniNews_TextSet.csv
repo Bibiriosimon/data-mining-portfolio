@@ -1,0 +1,61 @@
+id,text,label,category
+1,Python powers modern data analysis,0,technology
+2,Artificial intelligence transforms healthcare industry,0,technology
+3,Neural networks improve speech recognition,0,technology
+4,Big data helps companies make better decisions,0,technology
+5,Quantum computing opens new possibilities,0,technology
+6,Software engineers use GitHub for collaboration,0,technology
+7,Machine learning predicts customer behavior,0,technology
+8,Cloud computing changes traditional business models,0,technology
+9,Autonomous cars rely on deep learning algorithms,0,technology
+10,Cybersecurity protects personal information online,0,technology
+11,Virtual reality offers immersive experiences,0,technology
+12,Blockchain ensures transaction transparency,0,technology
+13,Robotics advances manufacturing efficiency,0,technology
+14,Data scientists visualize trends with Python,0,technology
+15,5G technology speeds up wireless communication,0,technology
+16,Mobile applications connect billions of users,0,technology
+17,Natural language processing understands human text,0,technology
+18,Search engines rank results using AI models,0,technology
+19,Smartphones integrate multiple sensors for accuracy,0,technology
+20,Edge computing reduces latency for IoT devices,0,technology
+21,AI chatbots improve customer service response time,0,technology
+22,Database systems store massive structured data,0,technology
+23,Programming languages evolve for better performance,0,technology
+24,Augmented reality enhances online shopping experience,0,technology
+25,Reinforcement learning teaches machines to play games,0,technology
+26,Smart cities use data-driven decision systems,0,technology
+27,Cloud storage synchronizes files across devices,0,technology
+28,Wearable devices monitor health in real time,0,technology
+29,Automation increases productivity in technology firms,0,technology
+30,Digital twins simulate complex physical systems,0,technology
+31,Football players practice teamwork and strategy,1,sports
+32,Basketball games attract thousands of fans,1,sports
+33,Tennis champions train for international tournaments,1,sports
+34,Athletes improve performance with daily workouts,1,sports
+35,Baseball teams compete during summer season,1,sports
+36,The coach motivates players before the match,1,sports
+37,The Olympics feature running and swimming events,1,sports
+38,Marathon runners maintain strong endurance,1,sports
+39,The referee controls the pace of the game,1,sports
+40,Cycling competitions test both speed and stamina,1,sports
+41,Gymnasts perform artistic routines with precision,1,sports
+42,The goalkeeper defends the goal during penalty kicks,1,sports
+43,The team celebrated victory after hard training,1,sports
+44,Sports injuries require professional recovery plans,1,sports
+45,Spectators cheered loudly in the stadium,1,sports
+46,Cricket matches last for several intense days,1,sports
+47,The athlete won the gold medal in 100m sprint,1,sports
+48,Basketball coaches design new offensive tactics,1,sports
+49,Fitness centers encourage daily exercise routines,1,sports
+50,Volleyball teams coordinate serves and spikes,1,sports
+51,The tournament schedule includes multiple rounds,1,sports
+52,Fans follow their favorite teams on social media,1,sports
+53,Table tennis requires fast reaction and balance,1,sports
+54,Training camps improve players’ skills and fitness,1,sports
+55,The swimmer broke the national record last year,1,sports
+56,The referee ensured fair play during the final,1,sports
+57,Soccer stars sign million-dollar contracts,1,sports
+58,"Athletics combines strength, speed, and discipline",1,sports
+59,Teamwork determines success in professional sports,1,sports
+60,The championship game was broadcast live worldwide,1,sports
